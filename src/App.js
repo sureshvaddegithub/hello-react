@@ -11,8 +11,8 @@ import Form3 from "./Components/Form3.js";
 const App = ()=>{
     return (
         <div>
-            {/* <States/> 
-             <Counter/> */}
+            <States/> 
+             <Counter/>
             <Form3/>
         </div>
     )
